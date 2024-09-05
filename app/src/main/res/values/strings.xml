@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Drawing App</string>
+    <string name="save_image">save image</string>
+    <string name="brush_image">brush image</string>
+    <string name="undo_image">undo image</string>
+    <string name="gallery_image">gallery image</string>
+    <string name="white_color">white color</string>
+    <string name="random_color">random color</string>
+    <string name="lollipop_color">lollipop color</string>
+    <string name="yellow_color">yellow color</string>
+    <string name="blue_color">blue color</string>
+    <string name="green_color">green color</string>
+    <string name="red_color">red color</string>
+    <string name="black_color">black color</string>
+    <string name="skin_color">skin color</string>
+    <string name="background">background</string>
+    <string name="please_wait">Please Wait...</string>
+</resources>
